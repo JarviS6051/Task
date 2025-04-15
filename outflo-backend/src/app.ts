@@ -14,7 +14,7 @@ const port = process.env.PORT || 3000;
 // Middleware
 app.use(
   cors({
-    origin: ["https://task-mu-henna.vercel.app",
+    origin: ["https://task-mu-henna.vercel.app/",
       "http://localhost:5173",
       "http://localhost:3000",
     ],
