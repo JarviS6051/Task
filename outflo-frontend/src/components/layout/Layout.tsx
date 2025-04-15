@@ -15,7 +15,7 @@ const Layout = ({ children }: LayoutProps) => {
       </main>
       <footer className="bg-white border-t border-gray-200 py-3">
         <div className="container mx-auto px-3 sm:px-4 text-center text-gray-500 text-xs sm:text-sm">
-          &copy; {new Date().getFullYear()} Campaign Spark Connect. All rights reserved.
+          &copy; {new Date().getFullYear()} Task Campaign.
         </div>
       </footer>
     </div>

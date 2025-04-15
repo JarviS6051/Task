@@ -27,7 +27,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center">
               <Sparkles className="w-6 h-6 text-brand-600 mr-2" />
               <span className="text-xl font-bold bg-gradient-to-r from-brand-600 to-accent-500 bg-clip-text text-transparent">
-                Campaign Spark
+                Task Campaign
               </span>
             </Link>
           </div>
